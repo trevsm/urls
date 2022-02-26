@@ -1,6 +1,6 @@
 # urls
 
-A single bulk collection of up-to-date URLs and usernames used in each of my projects (Socials, Domains, Repos, etc)
+A single bulk collection of up-to-date URLs used in each of my projects (Socials, Domains, Repos, etc)
 
 Only one place to update that will reflect in all projects.
 
