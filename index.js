@@ -63,23 +63,23 @@ const ghProfile = {
 
 const projects = {
   tastySpore: {
-    live: "tastyspore.com",
+    live: "https://tastyspore.com",
     source: ghProfile.url + "tasyspore",
   },
   portfolio: {
-    live: "trevorjs.dev",
+    live: "https://trevorjs.dev",
     source: ghProfile.url + "mobile-portfolio",
   },
   whatGpu: {
-    live: "whatgpu.net",
+    live: "https://whatgpu.net",
     source: ghProfile.url + "whatgpu",
   },
   whenToWakeup: {
-    live: "whentowakeup.com",
+    live: "https://whentowakeup.com",
     source: ghProfile.url + "whentowakeup",
   },
   studioVoce: {
-    live: "voce.studio",
+    live: "https://voce.studio",
     source: ghProfile.url + "studio-voce2",
   },
   room3d: {

@@ -1,6 +1,6 @@
 {
   "name": "@trevsm/urls",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A collection of commonly-used up-to-date URLs used in each of my projects (Socials, Domains, Repos, etc)",
   "main": "index.js",
   "repository": {
