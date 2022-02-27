@@ -1,67 +1,12 @@
-export const social = {
-  instagram: {
-    common: "trev_sm",
-    url: "https://instagram.com/trev_sm/",
-  },
-  facebook: {
-    common: "trevjs",
-    url: "https://facebook.com/trevjs/",
-  },
-  linkedin: {
-    common: "trevor-smith-27621613b",
-    url: "https://www.linkedin.com/trevor-smith-27621613b",
-  },
-  twitter: {
-    common: "trev_sm",
-    url: "https://twitter.com/trev_sm",
-  },
-  snapchat: {
-    common: "trev_sm",
-  },
-  productHunt: {
-    common: "subtora",
-    url: "https://www.producthunt.com/@subtora",
-  },
-  paypal: {
-    common: "trevsm",
-    url: "https://paypal.me/trevsm",
-  },
-  venmo: {
-    common: "trev_sm",
-    url: "https://venmo.com/u/trev_sm",
-  },
-};
+import { IProfile, IProjects } from "../types/types";
 
-export const dev = {
-  stackOverflow: {
-    common: "subtora",
-    url: "https://stackoverflow.com/users/8026620/subtora",
-  },
-  npm: {
-    common: "trevsm",
-    url: "https://www.npmjs.com/~trevsm",
-  },
-};
-
-export const email = {
-  gmail: {
-    primary: "16tsmith55@gmail.com",
-  },
-  pm: {
-    primary: "trevorsm@pm.me",
-  },
-  other: {
-    primary: "me@trevorjs.dev",
-  },
-};
-
-const ghProfile = {
+const ghProfile: IProfile = {
   common: "trevsm",
   url: "https://github.com/trevsm/",
   pages: "https://trevsm.github.io/",
 };
 
-const projects = {
+const projects: IProjects = {
   tastySpore: {
     live: "https://tastyspore.com",
     source: ghProfile.url + "tasyspore",
