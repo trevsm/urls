@@ -11,7 +11,7 @@ export const social: ISocial = {
   },
   linkedin: {
     common: "trevor-smith-27621613b",
-    url: "https://www.linkedin.com/trevor-smith-27621613b",
+    url: "https://www.linkedin.com/in/trevor-smith-27621613b",
   },
   twitter: {
     common: "trev_sm",
